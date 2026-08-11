@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+pandas
+pillow==10.2.0
+streamlit-echarts
+json5
+scipy
